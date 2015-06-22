@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": "https://bitbucket.org/copren/ether.git"
+  "repository": "https://bitbucket.org/copren/ether.git",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "express": "^4.13.0"
+  }
 }
